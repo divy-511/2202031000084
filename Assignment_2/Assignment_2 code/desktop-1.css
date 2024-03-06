@@ -1,0 +1,690 @@
+.shopco {
+  margin: 0;
+  height: 22px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.shop11,
+.shopco {
+  position: relative;
+}
+.frame-search-icon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.shop10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 4px;
+}
+.new-arrivals1,
+.on-sale {
+  white-space: nowrap;
+}
+.brands,
+.new-arrivals1,
+.on-sale {
+  height: 22px;
+  position: relative;
+  display: inline-block;
+}
+.on-sale-new-arrivals {
+  width: 321px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  font-size: var(--body-text-bold-size);
+  font-family: var(--font-satoshi);
+}
+.frame-products-area {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.search-for-products {
+  width: 151px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-satoshi);
+  font-size: var(--body-text-bold-size);
+  background-color: transparent;
+  height: 22px;
+  position: relative;
+  color: var(--color-gray-500);
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+}
+.frame-line {
+  width: 577px;
+  border-radius: var(--br-43xl);
+  background-color: var(--color-whitesmoke-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  gap: 0 12px;
+  max-width: 100%;
+}
+.frame-rectangle-icon,
+.frame-rectangle-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.frame-frame-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 14px;
+}
+.frame-root,
+.shopco-parent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.shopco-parent {
+  width: 1240px;
+  align-items: center;
+  justify-content: center;
+  gap: 0 40px;
+}
+.frame-root {
+  width: 1324px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-integral-cf);
+}
+.frame-frame-help-menu-about-fe {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.find-clothes-that {
+  margin: 0;
+  height: 173px;
+  width: 577px;
+  position: relative;
+  font-size: inherit;
+  line-height: 64px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.shop-now {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.browse-through-our {
+  width: 545px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.on-sale-new-arrivals-brands,
+.shop-now1 {
+  font-size: var(--body-text-bold-size);
+  font-family: var(--font-satoshi);
+}
+.on-sale-new-arrivals-brands {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: var(--color-gray-700);
+}
+.shop-now1 {
+  position: relative;
+  font-weight: 500;
+  color: var(--white);
+  text-align: left;
+}
+.shop12 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini);
+  background-color: var(--color-black);
+  width: 210px;
+  border-radius: var(--br-43xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.shop12:hover {
+  background-color: var(--color-darkslategray-500);
+}
+.browse-through-diverse-range,
+.find-clothes-style {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.browse-through-diverse-range {
+  flex-direction: column;
+  gap: 35px 0;
+}
+.find-clothes-style {
+  flex-direction: row;
+  padding: 0 var(--padding-8xl);
+  box-sizing: border-box;
+}
+.text3 {
+  height: 54px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.rectangle5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.international-brands {
+  position: relative;
+  font-size: var(--body-text-bold-size);
+  line-height: 22px;
+  color: var(--color-gray-700);
+  z-index: 1;
+}
+.rectangle-parent9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-features-works-about-fea {
+  width: 1px;
+  height: 74px;
+  position: relative;
+  border-right: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.help-menu-help-menu-help-menu {
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+}
+.b,
+.high-quality-products {
+  position: relative;
+  z-index: 1;
+}
+.b {
+  height: 54px;
+  display: flex;
+  align-items: center;
+}
+.high-quality-products {
+  font-size: var(--body-text-bold-size);
+  line-height: 22px;
+  color: var(--color-gray-700);
+}
+.help-menu-help-menu-help-menu1 {
+  flex: 0.8814;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  min-width: 115px;
+}
+.help-menu-help-menu-help-menu-child {
+  width: 1px;
+  height: 74px;
+  position: relative;
+  border-right: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.help-menu-help-menu-help-menu2 {
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+}
+.b1,
+.happy-customers {
+  position: relative;
+  z-index: 1;
+}
+.b1 {
+  height: 54px;
+  display: flex;
+  align-items: center;
+}
+.happy-customers {
+  font-size: var(--body-text-bold-size);
+  line-height: 22px;
+  color: var(--color-gray-700);
+}
+.help-menu-help-menu-help-menu3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 111px;
+}
+.frame-line-frame-high-quality1 {
+  width: 635px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 28px;
+  max-width: 100%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-satoshi);
+}
+.frame-help-menu,
+.text-item {
+  position: relative;
+  max-width: 100%;
+}
+.frame-help-menu {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-116xl) var(--padding-xl) var(--padding-91xl);
+  box-sizing: border-box;
+  gap: 70px 0;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-integral-cf);
+}
+.text-item {
+  width: 1484px;
+  height: 499px;
+  background-color: var(--color-whitesmoke-100);
+  display: none;
+}
+.shopco1 {
+  height: 23px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.we-have-clothes {
+  width: 248px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.empty-frame-icon,
+.empty-frame-icon1,
+.empty-frame-icon2,
+.empty-frame-icon3 {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  min-height: 28px;
+}
+.frames-with-text,
+.shopco-group,
+.text5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frames-with-text {
+  flex-direction: row;
+  gap: 0 12px;
+}
+.shopco-group,
+.text5 {
+  flex-direction: column;
+}
+.text5 {
+  gap: 35px 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-700);
+  font-family: var(--font-satoshi);
+}
+.shopco-group {
+  gap: 25px 0;
+  font-size: var(--font-size-14xl-5);
+  font-family: var(--font-integral-cf);
+}
+.help-menu {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.about {
+  white-space: pre-wrap;
+}
+.about,
+.blank-line {
+  margin: 0;
+}
+.features1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line1 {
+  margin: 0;
+}
+.works {
+  white-space: pre-wrap;
+}
+.blank-line2,
+.career,
+.works {
+  margin: 0;
+}
+.career {
+  white-space: pre-wrap;
+}
+.about-features-works-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 19px;
+  color: var(--color-gray-700);
+}
+.h-e-l-p-m-e-n-u-h-e-l-p-m-e-n {
+  width: 104px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.help-menu1 {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.blank-line3,
+.blank-line4,
+.blank-line5,
+.customer-support,
+.delivery-details,
+.privacy-policy2,
+.terms-conditions {
+  margin: 0;
+}
+.about-features-works-container1 {
+  position: relative;
+  line-height: 19px;
+  color: var(--color-gray-700);
+}
+.h-e-l-p-m-e-n-u-h-e-l-p-m-e-n1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.help-menu2 {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.account,
+.blank-line6,
+.blank-line7,
+.blank-line8,
+.manage-deliveries,
+.orders,
+.payments {
+  margin: 0;
+}
+.about-features-works-container2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 19px;
+  color: var(--color-gray-700);
+}
+.h-e-l-p-m-e-n-u-h-e-l-p-m-e-n2 {
+  width: 149px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.help-menu3 {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.blank-line10,
+.blank-line11,
+.blank-line9,
+.development-tutorial,
+.free-ebooks,
+.how-to-,
+.youtube-playlist {
+  margin: 0;
+}
+.about-features-works-container3 {
+  position: relative;
+  line-height: 19px;
+  color: var(--color-gray-700);
+}
+.h-e-l-p-m-e-n-u-h-e-l-p-m-e-n3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 26px 0;
+}
+.frame-frame,
+.frame-frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-frame {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+  z-index: 2;
+}
+.frame-frame-wrapper {
+  width: 1243px;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.help-menu-icon {
+  width: 1243px;
+  height: 3.1px;
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+  z-index: 2;
+}
+.text4 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke-100);
+  align-items: center;
+  padding: var(--padding-108xl) var(--padding-4xl) var(--padding-116xl)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: 57px 0;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--body-text-bold-size);
+  color: var(--color-black);
+  font-family: var(--font-satoshi);
+}
+.desktop-1,
+.frame-line-frame-high-quality,
+.text4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-line-frame-high-quality {
+  align-self: stretch;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--white);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-31xl) 0 0;
+  box-sizing: border-box;
+  gap: 54px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .on-sale-new-arrivals {
+    display: none;
+  }
+  .shopco-parent {
+    width: 919px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .find-clothes-that {
+    font-size: var(--font-size-32xl);
+    line-height: 51px;
+  }
+  .b,
+  .b1,
+  .text3 {
+    font-size: var(--font-size-13xl);
+  }
+  .shopco1 {
+    font-size: var(--font-size-8xl);
+  }
+  .frame-frame {
+    flex-wrap: wrap;
+  }
+  .desktop-1 {
+    gap: 54px 0;
+  }
+}
+@media screen and (max-width: 750px) {
+  .shopco-parent {
+    gap: 0 40px;
+  }
+  .browse-through-diverse-range {
+    gap: 35px 0;
+  }
+  .help-menu-help-menu-help-menu1,
+  .help-menu-help-menu-help-menu3 {
+    flex: 1;
+  }
+  .frame-line-frame-high-quality1 {
+    flex-wrap: wrap;
+  }
+  .frame-help-menu,
+  .text4 {
+    gap: 70px 0;
+    padding-top: var(--padding-69xl);
+    padding-bottom: var(--padding-52xl);
+    box-sizing: border-box;
+  }
+  .text4 {
+    gap: 57px 0;
+    padding-top: var(--padding-64xl);
+    padding-bottom: var(--padding-69xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .find-clothes-that {
+    font-size: var(--font-size-19xl);
+    line-height: 38px;
+  }
+  .b,
+  .b1,
+  .text3 {
+    font-size: var(--heading-3-size);
+  }
+  .frame-help-menu {
+    gap: 70px 0;
+  }
+  .shopco1 {
+    font-size: var(--font-size-xl);
+  }
+}
